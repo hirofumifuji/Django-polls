@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    /* background: white url("images/background.gif") no-repeat; */
+    background: white url("https://images.unsplash.com/photo-1599687266197-6c66c083b39c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80") no-repeat;
+}
